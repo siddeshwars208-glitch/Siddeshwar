@@ -1,6 +1,6 @@
 # Hi there, I'm Siddeshwar Kote! 👋
 
-![Banner Image](your_banner_image_url_here)
+
 
 ## About Me 🚀
 
